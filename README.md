@@ -1,75 +1,66 @@
-# Nuxt Minimal Starter
+# 🌿 Evergreen Dev Portfolio
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+<p align="center">
+  <img src="public/logo.png" alt="Evergreen Dev Logo" width="200"/>
+</p>
 
-## Setup
+<p align="center">
+  <a href="https://benkim3858.github.io">View Live Demo</a>
+  ·
+  <a href="https://github.com/benkim3858/benkim3858.github.io/issues">Report Bug</a>
+  ·
+  <a href="https://github.com/benkim3858/benkim3858.github.io/issues">Request Feature</a>
+</p>
 
-Make sure to install dependencies:
+## ✨ Features
 
-```bash
-# npm
-npm install
+- 🌓 Interactive space background animation
+- 🌐 Multilingual support (English/Korean)
+- 📱 Fully responsive design
+- ⚡ Built with Nuxt 3 for optimal performance
+- 🎨 Clean and modern UI/UX
+- 🚀 Optimized for GitHub Pages
 
-# pnpm
-pnpm install
+## 🛠️ Built With
 
-# yarn
-yarn install
+- [Nuxt 3](https://nuxt.com/) - The Vue.js Framework
+- [Vue.js](https://vuejs.org/) - Progressive JavaScript Framework
+- [TypeScript](https://www.typescriptlang.org/) - JavaScript with syntax for types
+- [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework
+- [GitHub Pages](https://pages.github.com/) - Hosting Platform
 
-# bun
-bun install
-```
+## 🌍 Internationalization
 
-## Development Server
+This project supports multiple languages:
+- English (Default)
+- Korean
 
-Start the development server on `http://localhost:3000`:
+To add a new language:
+1. Add a new JSON file in `locales/`
+2. Add the language option in `nuxt.config.ts`
 
-```bash
-# npm
-npm run dev
+## 📝 License
 
-# pnpm
-pnpm dev
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-# yarn
-yarn dev
+## 🤝 Contributing
 
-# bun
-bun run dev
-```
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-## Production
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-Build the application for production:
+## 📧 Contact
 
-```bash
-# npm
-npm run build
+Ben Kim - benkim3858@gmail.com
 
-# pnpm
-pnpm build
+Project Link: [https://github.com/benkim3858/benkim3858.github.io](https://github.com/benkim3858/benkim3858.github.io)
 
-# yarn
-yarn build
+## 🙏 Acknowledgments
 
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+- [Nuxt.js Documentation](https://nuxt.com/docs)
+- [Vue.js Documentation](https://vuejs.org/guide/introduction.html)
+- [GitHub Pages Documentation](https://docs.github.com/en/pages)
