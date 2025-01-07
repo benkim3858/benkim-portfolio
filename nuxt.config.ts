@@ -5,7 +5,9 @@ export default defineNuxtConfig({
   ],
 
   app: {
-    layoutTransition: { name: 'layout', mode: 'out-in' }
+    layoutTransition: { name: 'layout', mode: 'out-in' },
+    baseURL: '/benkim3858.github.io/',
+    buildAssetsDir: 'assets'
   },
 
   i18n: {
@@ -33,5 +35,6 @@ export default defineNuxtConfig({
   },
 
   devtools: { enabled: true },
-  compatibilityDate: '2025-01-02'
+  compatibilityDate: '2025-01-02',
+  ssr: false
 })
