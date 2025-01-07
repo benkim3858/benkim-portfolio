@@ -6,7 +6,7 @@ export default defineNuxtConfig({
 
   app: {
     layoutTransition: { name: 'layout', mode: 'out-in' },
-    baseURL: '/benkim-portfolio/',
+    baseURL: '/',
     buildAssetsDir: 'assets'
   },
 
