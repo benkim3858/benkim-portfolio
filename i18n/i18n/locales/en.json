@@ -1,0 +1,19 @@
+{
+  "hello": "Hello, I'm",
+  "roles": {
+    "developer": "Frontend Developer",
+    "uiux": "UI/UX Enthusiast",
+    "creative": "Creative Coder"
+  },
+  "buttons": {
+    "work": "View My Work",
+    "contact": "Contact Me"
+  },
+  "scroll": "Scroll Down",
+  "nav": {
+    "home": "Home",
+    "projects": "Projects",
+    "about": "About",
+    "contact": "Contact"
+  }
+} 

@@ -1,0 +1,32 @@
+:root {
+  // Colors
+  --color-primary: #64ffda;
+  --color-secondary: #94a3b8;
+  --color-bg-primary: #0a192f;
+  --color-bg-secondary: #020617;
+  --color-text-primary: #ffffff;
+  --color-text-secondary: #94a3b8;
+
+  // Spacing
+  --space-xs: 0.25rem;
+  --space-sm: 0.5rem;
+  --space-md: 1rem;
+  --space-lg: 2rem;
+  --space-xl: 4rem;
+
+  // Container
+  --container-sm: 640px;
+  --container-md: 768px;
+  --container-lg: 1024px;
+  --container-xl: 1280px;
+
+  // Typography
+  --font-sans: 'Inter', system-ui, sans-serif;
+  --font-mono: 'Fira Code', monospace;
+  
+  // Z-index
+  --z-background: -1;
+  --z-default: 1;
+  --z-overlay: 10;
+  --z-modal: 20;
+} 
