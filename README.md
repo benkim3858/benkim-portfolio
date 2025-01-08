@@ -1,18 +1,22 @@
 # 🌿 Evergreen Dev Portfolio
 
-[English](#english) | [한국어](#korean)
+<div style="display: flex; justify-content: space-between; align-items: center">
+ <img src="public/logo.png" alt="Evergreen Dev Logo" width="200"/>
+ <div>
+   <a href="#english">English</a> | <a href="#korean">한국어</a>
+ </div>
+</div>
 
 <p align="center">
-  <img src="public/logo.png" alt="Evergreen Dev Logo" width="200"/>
+ <a href="https://benkim3858.github.io">View Live Demo</a>
+ ·
+ <a href="https://github.com/benkim3858/benkim3858.github.io/issues">Report Bug</a>
+ ·
+ <a href="https://github.com/benkim3858/benkim3858.github.io/issues">Request Feature</a>
 </p>
 
-<p align="center">
-  <a href="https://benkim3858.github.io">View Live Demo</a>
-  ·
-  <a href="https://github.com/benkim3858/benkim3858.github.io/issues">Report Bug</a>
-  ·
-  <a href="https://github.com/benkim3858/benkim3858.github.io/issues">Request Feature</a>
-</p>
+<div id="english">
+
 # English
 
 ## ✨ Features
@@ -57,9 +61,11 @@ Project Link: [https://github.com/benkim3858/benkim3858.github.io](https://githu
 - [Nuxt.js Documentation](https://nuxt.com/docs)
 - [Vue.js Documentation](https://vuejs.org/guide/introduction.html)
 - [GitHub Pages Documentation](https://docs.github.com/en/pages)
+</div>
 
 ---
 
+<div id="korean">
 # 한국어
 
 ## ✨ 주요 기능
@@ -98,3 +104,4 @@ Ben Kim - benkim3858@gmail.com
 - [Nuxt.js 문서](https://nuxt.com/docs)
 - [Vue.js 문서](https://vuejs.org/guide/introduction.html)
 - [GitHub Pages 문서](https://docs.github.com/en/pages)
+</div>
