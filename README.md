@@ -1,5 +1,7 @@
 # 🌿 Evergreen Dev Portfolio
 
+[English](#english) | [한국어](#korean)
+
 <p align="center">
   <img src="public/logo.png" alt="Evergreen Dev Logo" width="200"/>
 </p>
@@ -11,6 +13,7 @@
   ·
   <a href="https://github.com/benkim3858/benkim3858.github.io/issues">Request Feature</a>
 </p>
+# English
 
 ## ✨ Features
 
@@ -43,16 +46,6 @@ To add a new language:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🤝 Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📧 Contact
 
 Ben Kim - benkim3858@gmail.com
@@ -64,3 +57,44 @@ Project Link: [https://github.com/benkim3858/benkim3858.github.io](https://githu
 - [Nuxt.js Documentation](https://nuxt.com/docs)
 - [Vue.js Documentation](https://vuejs.org/guide/introduction.html)
 - [GitHub Pages Documentation](https://docs.github.com/en/pages)
+
+---
+
+# 한국어
+
+## ✨ 주요 기능
+- 🌓 인터랙티브한 우주 배경 애니메이션
+- 🌐 다국어 지원 (영어/한국어)
+- 📱 완벽한 반응형 디자인
+- ⚡ Nuxt 3 기반의 최적화된 성능
+- 🎨 깔끔하고 현대적인 UI/UX
+- 🚀 GitHub Pages에 최적화
+
+## 🛠️ 사용 기술
+- [Nuxt 3](https://nuxt.com/) - Vue.js 프레임워크
+- [Vue.js](https://vuejs.org/) - 프로그레시브 자바스크립트 프레임워크
+- [TypeScript](https://www.typescriptlang.org/) - 타입 지원이 가능한 자바스크립트
+- [Tailwind CSS](https://tailwindcss.com/) - 유틸리티 우선 CSS 프레임워크
+- [GitHub Pages](https://pages.github.com/) - 호스팅 플랫폼
+
+## 🌍 다국어 지원
+이 프로젝트는 다음 언어들을 지원합니다:
+- 영어 (기본)
+- 한국어
+
+새로운 언어 추가 방법:
+1. `locales/` 디렉토리에 새로운 JSON 파일 추가
+2. `nuxt.config.ts`에 언어 옵션 추가
+
+## 📝 라이선스
+이 프로젝트는 MIT 라이선스를 따릅니다 - 자세한 내용은 [LICENSE](LICENSE) 파일을 참조하세요.
+
+## 📧 연락처
+Ben Kim - benkim3858@gmail.com
+
+프로젝트 링크: [https://github.com/benkim3858/benkim3858.github.io](https://github.com/benkim3858/benkim3858.github.io)
+
+## 🙏 감사의 말
+- [Nuxt.js 문서](https://nuxt.com/docs)
+- [Vue.js 문서](https://vuejs.org/guide/introduction.html)
+- [GitHub Pages 문서](https://docs.github.com/en/pages)
